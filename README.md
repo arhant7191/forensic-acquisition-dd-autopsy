@@ -29,7 +29,7 @@ This repository contains my academic forensic project demonstrating the process 
 ---
 
 ## 📄 Report
-👉 [Download Complete Report (PDF)](forensic-acquisition-dd-autopsy/report/forensic_acquisition_report.pdf)
+👉 [Download Complete Report (PDF)](forensic_acquisition_report.pdf.pdf)
 
 ---
 
