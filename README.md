@@ -29,7 +29,7 @@ This repository contains my academic forensic project demonstrating the process 
 ---
 
 ## 📄 Report
-👉 [Download Complete Report (PDF)](report/forensic_acquisition_report.pdf.pdf)
+👉 [Download Complete Report (PDF)](report/forensic_acquisition_report.pdf)
 
 ---
 
