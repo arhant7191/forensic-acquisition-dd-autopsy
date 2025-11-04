@@ -9,7 +9,7 @@ This repository contains my academic forensic project demonstrating the process 
 | Folder | Description |
 |--------|-------------|
 | **/practical-work** | Contains step-by-step forensic imaging commands, hash verification commands |
-| **/report** | Contains the complete project report (PDF) including documentation and analysis. |
+| **/forensic_acquisition_report** | Contains the complete project report (PDF) including documentation and analysis. |
 
 ---
 
